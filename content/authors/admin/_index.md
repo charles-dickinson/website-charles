@@ -20,16 +20,13 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/c_dickinson48
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/charles-dickinson
+- icon: strava
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://strava.com/athletes/2850062
 superuser: true
 title: Charles Dickinson
 ---
