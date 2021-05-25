@@ -4,7 +4,7 @@ education:
   courses:
   - course: BSc in Biology
     institution: University of Durham, UK
-    year: 2017
+    year: 2020
 email: "charles.dickinson1@outlook.com"
 highlight_name: false
 interests:
