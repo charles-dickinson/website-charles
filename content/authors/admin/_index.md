@@ -30,7 +30,4 @@ social:
 superuser: true
 title: Charles Dickinson
 ---
-I am a science geek, very amateur naturalist and wannabe endurance athlete. This website is my attempt to have an online presence beyond mainstream social media sites, because I hate them. Feel free to message me with feedback.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Science, nature and personal blog of Charles Dickinson. 
