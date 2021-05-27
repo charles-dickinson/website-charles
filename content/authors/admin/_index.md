@@ -30,4 +30,4 @@ social:
 superuser: true
 title: Charles Dickinson
 ---
-Science, nature and personal blog of Charles Dickinson. 
+Science, nature and sport.
