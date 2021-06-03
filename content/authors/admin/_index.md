@@ -8,7 +8,7 @@ education:
 email: "charles.dickinson1@outlook.com"
 highlight_name: false
 interests:
-- Plant genetics and crop improvement
+- Crop improvement
 - Ecology and conservation
 - Biotech
 social:
