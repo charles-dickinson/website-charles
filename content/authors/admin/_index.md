@@ -27,4 +27,4 @@ social:
 superuser: true
 title: Charles Dickinson
 ---
-Science, nature and sport.
+Weekly science and nature news, longer features, and book reviews.
