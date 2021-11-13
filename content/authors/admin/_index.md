@@ -4,13 +4,17 @@ education:
   courses:
   - course: BSc in Biological Sciences
     institution: University of Durham, UK
-    year: 2020
+    year: 2017-2020
+  - course: MSc in Plant Genetics and Crop Improvement
+    institution: John Innes Centre, UK
+    year: 2021-2022
 email: "charles.dickinson1@outlook.com"
 highlight_name: false
 interests:
 - Crop improvement
-- Ecology and conservation
+- Bioinformatics
 - Biotech
+- Ecology and Conservation
 social:
 - display:
     header: true
@@ -27,4 +31,4 @@ social:
 superuser: true
 title: Charles Dickinson
 ---
-Weekly science and nature news, longer features, and book reviews.
+MSc Plant Genetics and Crop Improvement student at the John Innes Centre, Norwich UK.
