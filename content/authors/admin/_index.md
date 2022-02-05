@@ -8,13 +8,13 @@ education:
   - course: MSc in Plant Genetics and Crop Improvement
     institution: John Innes Centre, UK
     year: 2021-2022
-email: "charles.dickinson1@outlook.com"
+email: "charles.dickinson@jic.ac.uk"
 highlight_name: false
 interests:
 - Crop improvement
 - Bioinformatics
-- Biotech
 - Ecology and Conservation
+- Endurance Sport
 social:
 - display:
     header: true
@@ -31,4 +31,8 @@ social:
 superuser: true
 title: Charles Dickinson
 ---
-MSc Plant Genetics and Crop Improvement student at the John Innes Centre, Norwich UK.
+I am Charles (He/Him), an MSc Plant Genetics and Crop Improvement student at the John Innes Centre, Norwich UK. I am researching wheat genetics with the aim to contribute to efforts to designing future wheat. In 2022, I will begin a PhD at the Earlham Institute, Norwich, developing next-generation sequencing applications in the vegetable breeding industry.
+
+I spend much of my spare time exploring the Norfolk countryside and its hidden treasures, at all paces - you might find me sitting, walking, running or cycling. I love endurance sports - connect with me on Strava. When I find myself indoors, I am a sports enthusiast, programmer and consumer of science. 
+
+
