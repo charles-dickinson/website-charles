@@ -27,7 +27,7 @@ feature:
   name: Python
 - description: 10%
   icon: bar-chart
-  icon_pack: fab
+  icon_pack: fas
   name: Data Visualisation
 
 # Uncomment to use emoji icons.
